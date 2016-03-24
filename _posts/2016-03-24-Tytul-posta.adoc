@@ -2,5 +2,8 @@
 
 == Jakiś nagłówek
 
+
 W sumie nie wiem co to jest, ale tu się chyba pisze posty.
+Dużo tekstu różnego pojawi sie tutaj, z obrazkami, wideo, i takie tam.
+Można jeszcze dodać możłiwość komentowania.
 
